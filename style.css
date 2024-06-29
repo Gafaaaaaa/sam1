@@ -1,0 +1,63 @@
+.box1 {
+  width: 200px;
+  height: 200px;
+  border: 3px solid black;
+  background-color: #fff;
+}
+.wrap {
+  display: flex;
+  gap: 30px;
+  justify-content: space-between;
+}
+.box2 {
+  background-color: red;
+}
+.box3 {
+  border: solid blue;
+  border-radius: 30px;
+}
+.rel {
+  border: 5px solid rgb(156, 77, 235);
+  border-radius: 50%;
+}
+.box4{
+    width: 300px;
+    
+    border: 3px solid black;
+    
+}
+.box5{
+    border: 3px solid black;
+width: 200px;
+height: 200px;
+
+}
+.box{
+    background-color: #fff;
+}
+.wrap2{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.title{
+    width: 90%;
+    margin-left: 15px;
+    background-color: orange;
+    border: 3px solid orangered;
+    border-radius: 20px;
+    padding: 10px;
+}
+.box4{
+    padding: 40px 20px;
+}
+.icon{
+    width: 100%;
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/gradient-abstract-background_23-2149115478.jpg?size=626&ext=jpg&ga=GA1.1.1788614524.1719532800&semt=ais_user);
+    background-repeat:repeat no-repeat ;
+    background-size: cover;
+}
